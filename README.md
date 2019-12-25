@@ -13,7 +13,6 @@ $ cd Game-2048
 ``` 
 $ javac Main.java 
 $ java Main
-
 ```
 ## How to play the game 
 Use your arrow keys to move tiles. When two tiles with the same number touch, they merge into one
